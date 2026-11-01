@@ -23,7 +23,7 @@ This can result in recyclable and compostable materials being placed in the wron
 ## 💡 Our Solution
 
 We are building a smart waste identification application that helps users determine where different types of street waste should go.
-
+The application leverages real-time computer vision and deep learning to instantly classify street waste into three primary categories: recyclable, compostable, or trash. 
 Users can identify or upload an image of a waste item and receive a recommendation for its appropriate disposal category based on Vancouver's local waste management guidelines.
 
 ## 🚀 Planned Features
